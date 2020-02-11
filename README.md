@@ -5,3 +5,10 @@
 ex) "기능개발" 문제, 1회차, 1번 문제, 깃헙아이디 ohjuntaek  
 => 1/1_1_기능개발_ohjuntaek.kt
 ```
+
+### 1. algo-1 
+2020.02.17(화)
+
+1. [소수 찾기](https://www.welcomekakao.com/learn/courses/30/lessons/42839?language=kotlin)
+
+2. [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860?language=kotlin)
