@@ -12,3 +12,9 @@ ex) "기능개발" 문제, 1회차, 1번 문제, 깃헙아이디 ohjuntaek
 1. [소수 찾기](https://www.welcomekakao.com/learn/courses/30/lessons/42839?language=kotlin)
 
 2. [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860?language=kotlin)
+
+### 2. algo-2
+2020.02.13(목)
+
+1. [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+2. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
