@@ -18,3 +18,9 @@ ex) "기능개발" 문제, 1회차, 1번 문제, 깃헙아이디 ohjuntaek
 
 1. [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 2. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+
+### 3. algo-3
+2020.02.18(화)
+
+1. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) - level 1
+2. [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) - level 2
