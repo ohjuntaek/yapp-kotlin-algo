@@ -29,15 +29,15 @@ class Solution {
             var left = number-1
             if (right in reserve) {
                 answer+=1
-                reserve.get(right)
+                reserve.set(reserve[right],-100)
             }
             else if (left in reserve){
                 answer+=1
-                reserve.get(left)
+                reserve.set(reserve[left],-100)
             }
             else if (number in reserve) {
                 answer+=1
-                reserve.get(number)
+                reserve.set(reserve[number],-100)
             }
         }
         return answer
