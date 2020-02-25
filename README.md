@@ -37,3 +37,8 @@ ex) "기능개발" 문제, 1회차, 1번 문제, 깃헙아이디 ohjuntaek
 
 1. [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 2. [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585)
+
+### 5. algo-5
+
+1. [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+2. [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
