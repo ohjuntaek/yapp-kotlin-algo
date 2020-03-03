@@ -42,3 +42,8 @@ ex) "기능개발" 문제, 1회차, 1번 문제, 깃헙아이디 ohjuntaek
 
 1. [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 2. [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+
+### 6. algo-6
+
+1. [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
+2. [시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
