@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ee94a5e-0268-4d61-9b1e-9e7829860ff8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo-3/src/3_1_체육복_choechangik.kt" beforeDir="false" afterPath="$PROJECT_DIR$/algo-3/src/3_1_체육복_choechangik.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yapp-kotlin-algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yapp-kotlin-algo.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YKGayYYc8d8i1kOLKmYl30l23Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="_3_1_체육복_choechangikKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="yapp-kotlin-algo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_3_1_체육복_choechangikKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._3_1_체육복_choechangikKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee94a5e-0268-4d61-9b1e-9e7829860ff8" name="Default Changelist" comment="" />
+      <created>1583416003952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583416003952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583418542973">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="304" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.963@0.23.1680.963" timestamp="1583418542973" />
+    <state width="1638" height="259" key="GridCell.Tab.0.bottom" timestamp="1583419225871">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="259" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1583419225871" />
+    <state width="1638" height="259" key="GridCell.Tab.0.center" timestamp="1583419225870">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="259" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1583419225870" />
+    <state width="1638" height="259" key="GridCell.Tab.0.left" timestamp="1583419225869">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="259" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1583419225869" />
+    <state width="1638" height="259" key="GridCell.Tab.0.right" timestamp="1583419225870">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="259" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1583419225870" />
+    <state x="328" y="86" key="SettingsEditor" timestamp="1583418231952">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="328" y="86" key="SettingsEditor/0.23.1680.963@0.23.1680.963" timestamp="1583418231952" />
+    <state x="440" y="244" key="Vcs.Push.Dialog.v2" timestamp="1583416017482">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="440" y="244" key="Vcs.Push.Dialog.v2/0.23.1680.963@0.23.1680.963" timestamp="1583416017482" />
+    <state x="517" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1583416007411">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="517" y="337" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1583416007411" />
+    <state x="509" y="303" key="git4idea.merge.GitPullDialog" timestamp="1583416025076">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="509" y="303" key="git4idea.merge.GitPullDialog/0.23.1680.963@0.23.1680.963" timestamp="1583416025076" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1583417878196">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.963@0.23.1680.963" timestamp="1583417878196" />
   </component>
 </project>
